@@ -1,1 +1,1 @@
-C++ Program for the paper "More Accurate TM-Score Through Kabsch Algorithm (2016)" 
+C++ Program for the paper "A Heuristic Method to Compute More Accurate TM-scores (2016)" 
